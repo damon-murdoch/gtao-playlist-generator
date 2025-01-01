@@ -23,19 +23,17 @@ of generating balanced playlists.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SirScrubbington/gta-race-playlist-generator.git
+   git clone https://github.com/damon-murdoch/gtao-playlist-generator.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd gta-race-playlist-generator
+   cd gtao-playlist-generator
    ```
-
-3. Install any required dependencies (if any are needed in future versions).
 
 4. Ensure your race data is formatted as a CSV file in the following format and placed in the `data/` directory:
    ```csv
-   Name,Rating,Distance,LapRace
+   Name,Rating,Distance,Point To Point
    Race1,4,3.5,false
    Race2,5,2.8,true
    ```
