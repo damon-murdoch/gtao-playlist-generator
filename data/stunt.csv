@@ -1,49 +1,49 @@
-Stunt - Chiliad,76,9.55,true
-Stunt - Plummet,75,13.72,true
-Stunt - Downtown Loop,72,4.56,false
-Stunt - Canyon Crossing,72,6.11,false
-Stunt - Trench I,77,3.57,false
-Stunt - Double Loop,70,5.37,false
-Stunt - East Coast,71,5.82,false
-Stunt - Over and Under,75,5.12,false
-Stunt - City Air,70,6.07,false
-Stunt - Big Drop,71,11.25,true
-Stunt - Vespucci,67,5.63,false
-Stunt - Plummet II,75,11.45,true
-Stunt - Threading the Needle,70,4.86,false
-Stunt - Lift Off,74,9.14,true
-Stunt - H200,71,4.06,false
-Stunt - Maze Bank Ascent,70,5.32,false
-Stunt - Afterburner,75,6.12,false
-Stunt - 45*,66,9.94,false
-Stunt - Nightlife,73,4.33,false
-Stunt - Duel,68,3.41,false
-Stunt - Over the Bridge,78,8.71,true
-Stunt - Racing Alley,75,4.54,false
-Stunt - Green Machine,68,6.9,false
-Stunt - Wall Climb,66,6.4,false
-Stunt - Raton,69,6.5,false
-Stunt - Zebra,76,9.73,true
-Stunt - High Flier,71,5.8,false
-Stunt - Big M,75,5.45,false
-Stunt - Turbine,72,5.22,false
-Stunt - Spinner,69,7.03,false
-Stunt - Rally,73,9.1,true
-Stunt - Forest,72,4.9,false
-Stunt - Splits,70,3.86,false
-Stunt - Trench III,76,11.28,true
-Stunt - Trench II,73,2.79,false
-Stunt - Around the Docks,73,4.61,false
-Stunt - The Wave,72,5.85,false
-Stunt - Vinewood Downhill,76,9.2,true
-Stunt - In the City,67,7.55,false
-Stunt - Gauntlet,63,7.94,false
-Stunt - Pier Race,69,5.31,false
-Stunt - Mountain Drop,75,8.52,true
-Stunt - Vicious Spiral,71,6.49,false
-Stunt - City Limits,74,4.44,false
-Stunt - Cannon Fodder,69,10.69,true
-Stunt - Bridge Too Far,68,6.07,false
-Stunt - A Tight Spot,73,4.88,false
-Stunt - Sun Sea and Chicanes,68,3.89,false
-Stunt - Cluster Struck,58,4.21,false
+Stunt - H200,Sports,71,4.06,false
+Stunt - Lift Off,Sports,74,9.14,true
+Stunt - Big Drop,Sports,71,11.25,true
+Stunt - Rally,Sports,73,9.1,true
+Stunt - Sun Sea and Chicanes,Sports,68,3.89,false
+Stunt - City Air,Sports,70,6.07,false
+Stunt - Maze Bank Ascent,Sports,70,5.32,false
+Stunt - Racing Alley,Sports,75,4.54,false
+Stunt - Zebra,Sports,76,9.73,true
+Stunt - In the City,Sports,67,7.55,false
+Stunt - Bridge Too Far,Sports,68,6.07,false
+Stunt - Turbine,Offroad,72,5.22,false
+Stunt - Canyon Fodder,Offroad,69,10.69,true
+Stunt - Cluster Struck,Muscle,58,4.21,false
+Stunt - Trench II,Muscle,73,2.79,false
+Stunt - Duel,Muscle,68,3.41,false
+Stunt - Splits,Compact,70,3.86,false
+Stunt - Mountain Drop,Bikes,75,8.52,true
+Stunt - Afterburner,Bikes,75,6.12,false
+Stunt - Around the Docks,Bikes,73,4.61,false
+Stunt - High Flier,Bikes,71,5.8,false
+Stunt - 45*,Bikes,66,9.94,false
+Stunt - Nightlife,Bikes,73,4.33,false
+Stunt - Big M,Bikes,75,5.45,false
+Stunt - A Tight Spot,Bikes,73,4.88,false
+Stunt - Trench I,Bikes,77,3.57,false
+Stunt - Over and Under,Bikes,75,5.12,false
+Stunt - Threading the Needle,Bikes,70,4.86,false
+Stunt - Over the Bridge,Bikes,78,8.71,true
+Stunt - Forest,Bikes,72,4.9,false
+Stunt - Trench III,Bikes,76,11.28,true
+Stunt - The Wave,Bikes,72,5.85,false
+Stunt - Vinewood Downhill,Bikes,76,9.2,true
+Stunt - Double Loop,Super,70,5.37,false
+Stunt - Plummet II,Super,75,11.45,true
+Stunt - Chiliad,Super,76,9.55,true
+Stunt - Plummet,Super,75,13.72,true
+Stunt - City Limits,Super,74,4.44,false
+Stunt - Pier Race,Super,69,5.31,false
+Stunt - Downtown Loop,Super,72,4.56,false
+Stunt - Canyon Crossing,Super,72,6.11,false
+Stunt - East Coast,Super,71,5.82,false
+Stunt - Vespucci,Super,67,5.63,false
+Stunt - Green Machine,Super,68,6.9,false
+Stunt - Wall Climb,Super,66,6.4,false
+Stunt - Raton,Super,69,6.5,false
+Stunt - Spinner,Super,69,7.03,false
+Stunt - Gauntlet,Super,63,7.94,false
+Stunt - Vicious Spiral,Super,71,6.49,false
